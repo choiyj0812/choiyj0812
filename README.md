@@ -52,7 +52,7 @@
 
 ## blog
 
-  <a href="">
+  <a href="https://blog.naver.com/cyjin1513">
     <img src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/>
   </a>
   <a href="">
